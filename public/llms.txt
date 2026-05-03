@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפש מוצרים יד שנייה באיכות גבוהה? ביד ראשונה מרופא תמצא מגוון עצום של מוצרים מרופאים למכירה פרטית. חפש, השווה וצור קשר עם המוכר בקלות!
+
+### מכור בביטחון
+https://example.com/sell-with-confidence
+רוצה למכור מוצר יד שנייה? העלה תמונות, הוסף תיאור ומחיר וקבל אישור מיידי במייל. אלפי קונים פוטנציאליים מחכים לך עכשיו ביד ראשונה מרופא!
+
+### איך קונים מתחברים
+https://example.com/how-buyers-connect
+חיפוש חכם, תוצאות מיידיות ויצירת קשר ישירה עם המוכר בלחיצת כפתור. גלה איך קנייה יד שנייה ממכירה פרטית הופכת לחוויה פשוטה ובטוחה ביד ראשונה מרופא!
+
+### צור קשר
+https://example.com/contact
+יש שאלה, בעיה טכנית או הצעה לשיפור? צוות יד ראשונה מרופא כאן בשבילך. שלח הודעה ונחזור אליך במהירות כדי שתוכל לקנות ולמכור בלי עיכובים!
+
+### Products
+https://example.com/products
+המוצרים שלנו - יד ראשונה מרופא
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - יד ראשונה מרופא
+
+### Category
+https://example.com/category/:slug
+מוצרים - יד ראשונה מרופא
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
